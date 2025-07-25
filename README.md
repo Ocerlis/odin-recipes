@@ -1,5 +1,7 @@
 This is Recipes project from ODIN Project.
 
-The result will be a basic website with recipes. No styles, just plain text estate.
+This project has basic CSS styling for the learning's sake.
 
-Things that would be learned: Basic HTML.
+The result will be a basic website with recipes. 
+
+Things that would be learned: Basic HTML, Basic CSS Styling.
