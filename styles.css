@@ -1,7 +1,22 @@
 * {
     font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
 }
 
 .mainTitle {
-    margin-left: 20px;
+    width: auto;
+    border: 500px;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.menu {
+    width: auto;
+    background-color: rgb(206, 173, 173)
+}
+
+.link {
+    text-align: center;
+    display: block;
+    margin: 30px;
 }
