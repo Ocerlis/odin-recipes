@@ -9,3 +9,11 @@
     background-color: gainsboro;
     text-align: center;
 }
+
+#home {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
