@@ -17,3 +17,8 @@
     margin-bottom: 20px;
     font-size: 20px;
 }
+
+#previewImage {
+    display: block;
+    margin-left: auto;
+}
